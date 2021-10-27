@@ -1,0 +1,69 @@
+main.pbi: \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\DS3231_H.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\5x5_font.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\ILI9341_GFX.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\ILI9341_STM32_Driver.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\ILI9341_Touchscreen.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_float_setup.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\math.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\gpio.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\usart.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\tim.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\spi.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\i2c.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\dma.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2\cmsis_os2.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iar_intrinsics_common.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\intrinsics.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM4F\portmacro.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\FreeRTOSConfig.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2\cmsis_os.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_spi.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_exti.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Include\core_cm4.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\stm32f4xx_hal_conf.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\EWARM\..\Core\Inc\main.h \
+  E:\OneDrive\OneDrive\ -\ Unicorn\Desktop\Desktop\SOURCES\ CODE\CODE\ STM32\STM32_PZEM\Core\Src\main.c
